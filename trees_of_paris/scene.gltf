@@ -1,0 +1,449 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 65535,
+      "max": [
+        147.875,
+        243.71142578125,
+        19.587800979614258
+      ],
+      "min": [
+        0.25,
+        0.058837890625,
+        2.2615528106689453
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65535,
+      "max": [
+        0.9686274528503418,
+        0.91764706373214722,
+        0.92156863212585449,
+        1
+      ],
+      "min": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 786420,
+      "componentType": 5126,
+      "count": 65535,
+      "max": [
+        147.890625,
+        243.7119140625,
+        19.524398803710938
+      ],
+      "min": [
+        0.2578125,
+        0.005126953125,
+        2.2069778442382812
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1048560,
+      "componentType": 5126,
+      "count": 65535,
+      "max": [
+        0.9686274528503418,
+        0.91764706373214722,
+        0.92156863212585449,
+        1
+      ],
+      "min": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1572840,
+      "componentType": 5126,
+      "count": 65535,
+      "max": [
+        147.8828125,
+        243.709716796875,
+        19.499048233032227
+      ],
+      "min": [
+        0.28125,
+        0,
+        0.17948198318481445
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2097120,
+      "componentType": 5126,
+      "count": 65535,
+      "max": [
+        1,
+        0.96470588445663452,
+        0.92549020051956177,
+        1
+      ],
+      "min": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2359260,
+      "componentType": 5126,
+      "count": 65535,
+      "max": [
+        136.109375,
+        247.698486328125,
+        11.252861976623535
+      ],
+      "min": [
+        0,
+        0.049072265625,
+        0.12490594387054443
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3145680,
+      "componentType": 5126,
+      "count": 65535,
+      "max": [
+        1,
+        0.96470588445663452,
+        1,
+        1
+      ],
+      "min": [
+        0.83921569585800171,
+        0.49411764740943909,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3145680,
+      "componentType": 5126,
+      "count": 65535,
+      "max": [
+        136.1171875,
+        247.651123046875,
+        11.24986457824707
+      ],
+      "min": [
+        0.1328125,
+        0.135009765625,
+        0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4194240,
+      "componentType": 5126,
+      "count": 65535,
+      "max": [
+        1,
+        0.96470588445663452,
+        1,
+        1
+      ],
+      "min": [
+        0.83921569585800171,
+        0.49411764740943909,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3932100,
+      "componentType": 5126,
+      "count": 46898,
+      "max": [
+        135,
+        240.314208984375,
+        11.025355339050293
+      ],
+      "min": [
+        0.234375,
+        4.854248046875,
+        0.14992594718933105
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5242800,
+      "componentType": 5126,
+      "count": 46898,
+      "max": [
+        1,
+        0.91764706373214722,
+        1,
+        1
+      ],
+      "min": [
+        0.0039215688593685627,
+        0,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Loïc Norgeot (https://sketchfab.com/norgeotloic)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/trees-of-paris-18b6147712854200bdbc5c5424e3c0dd",
+      "title": "Trees of Paris"
+    },
+    "generator": "Sketchfab-5.84.2",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 4494876,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5993168,
+      "byteOffset": 4494876,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 10488044,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "Scene_-_Root",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 1,
+            "POSITION": 0
+          },
+          "material": 0,
+          "mode": 0
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 3,
+            "POSITION": 2
+          },
+          "material": 0,
+          "mode": 0
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 5,
+            "POSITION": 4
+          },
+          "material": 0,
+          "mode": 0
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 7,
+            "POSITION": 6
+          },
+          "material": 0,
+          "mode": 0
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 9,
+            "POSITION": 8
+          },
+          "material": 0,
+          "mode": 0
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 11,
+            "POSITION": 10
+          },
+          "material": 0,
+          "mode": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0,
+        -1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        78083.859375,
+        82752.03125,
+        0,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        75664.0078125,
+        -2469.759521484375,
+        1.1860500574111938,
+        1
+      ],
+      "name": "skfb_offset"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    },
+    {
+      "mesh": 2,
+      "name": ""
+    },
+    {
+      "mesh": 3,
+      "name": ""
+    },
+    {
+      "mesh": 4,
+      "name": ""
+    },
+    {
+      "mesh": 5,
+      "name": ""
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
